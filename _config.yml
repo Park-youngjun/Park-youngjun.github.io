@@ -8,7 +8,7 @@ bio: PORTFLIO
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile_photo.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # # if you don't want comments in your posts, leave categories empty
 # disqus:
-#   shortname: github # enter this from your disqus account
+#   shortname: Park-youngjun # enter this from your disqus account
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -41,19 +41,14 @@ instagram: young__jun__/
 github: Park-youngjun
 email: ppp7545@gmail.com
 
-#authors:
-  # johndoe:
-  #   name: John Doe
-  #   bio: A Man who travels the world eating noodles
-  #   external-image: false
-  #   picture: assets/images/profile.jpg
-  #   twitter: johndoe
-  # jamesfoster:
-  #   name: James Foster
-  #   bio: A Man who develops software with coffee
-  #   external-image: false
-  #   picture: assets/images/james.jpg
-  #   twitter: jamesfoster
+# authors:
+#   ParkYoungJun:
+#     name: Park Young Jun
+#     # bio: A Man who travels the world eating noodles
+#     external-image: false
+#     picture: assets/images/profile_photo.jpg
+#     # twitter: johndoe
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -85,7 +80,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+# post-advance-links: [blog]
 
 # show author block at the end of a post ?
 # show-author: true
