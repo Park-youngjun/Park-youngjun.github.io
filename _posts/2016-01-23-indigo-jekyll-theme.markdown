@@ -1,34 +1,34 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "프로젝트"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+date: 2022-06-05 18:24
+# tag: jekyll
+# image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+# headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+# description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: johndoe
+author: ParkYoungJun
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+ > C 프로젝트   
+ - [백준 알고리즘][1]   
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+ > DB    
+  - [릴레이소설][2]
 
----
+ > Android
+  - [NFC 출입관리 서비스][3]
+  - [스케줄 관리][4]
 
-What has inside?
+ > AI projct
+  - [아동 감정 분석][5]
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+[1]:https://github.com/Park-youngjun/BAEKJOON
+[2]:https://github.com/Park-youngjun/DB
+[3]:https://github.com/Park-youngjun/AndroidProject-B.SORI
+[4]:https://github.com/Park-youngjun/Android
+[5]:a
+[6]:a
