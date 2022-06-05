@@ -13,17 +13,17 @@ author: ParkYoungJun
 externalLink: false
 ---
 
- > C 프로젝트   
+ > ### C 프로젝트   
  - [백준 알고리즘][1]   
 
- > DB    
+ > ### DB    
   - [릴레이소설][2]
 
- > Android
+ > ### Android
   - [NFC 출입관리 서비스][3]
   - [스케줄 관리(개발중)][4]
 
- > AI projct
+ > ### AI projct
   - [아동 감정 분석(개발중)][5]
 
 [1]:https://github.com/Park-youngjun/BAEKJOON

@@ -12,7 +12,7 @@ category: blog
 author: ParkYoungJun
 description: Markdown summary with different options
 ---
-> ## 수상 내역 
+> ### 수상 내역 
 
  - [LINK+ 사업단] 2021 부산권 6개 대학 LINC+ 사업단 연합 B.SORI 캡스톤 디자인 프로젝트 (2021-06-21 ~ 2021-10-15)  - 대상(부산시장상)     
  - [SW 중심대학사업단] 2021 동서인 AI 해커톤 경진대회 (2021-11-04 ~ 2021-11-06) -장려상    
