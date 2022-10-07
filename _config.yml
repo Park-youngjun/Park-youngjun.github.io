@@ -39,7 +39,7 @@ permalink: /:title/
 instagram: young__jun__/
 #linkedin: mylinkedin
 github: Park-youngjun
-email: ppp7545@gmail.com
+email: ppp7545@naver.com
 
 # authors:
 #   ParkYoungJun:
@@ -67,7 +67,7 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
