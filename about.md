@@ -2,44 +2,28 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+ > #### [수상내역][1] 
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+ > #### [활동내역][2]  
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+ > ### C 프로젝트   
+ - [백준 알고리즘][3]      
 
-<h2>Skills</h2>
+ > ### Full Stack
+  - [릴레이소설][4]   
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+ > ### Android
+  - [NFC 출입관리 서비스][5]
+  - [스케줄 관리][6]    
 
-<h2>Projects</h2>
+ > ### AI projct
+  - [아동 감정 분석(개발중)][7]   
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+
+[1]:https://park-youngjun.github.io/%EC%88%98%EC%83%81%EB%82%B4%EC%97%AD/
+[2]:https://park-youngjun.github.io/%ED%99%9C%EB%8F%99%EB%82%B4%EC%9A%A9/
+[3]:https://github.com/Park-youngjun/BAEKJOON
+[4]:https://github.com/Park-youngjun/DB
+[5]:https://github.com/Park-youngjun/AndroidProject-B.SORI
+[6]:https://github.com/Park-youngjun/Android
+[7]:a
