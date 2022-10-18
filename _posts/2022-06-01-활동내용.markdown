@@ -7,13 +7,18 @@ headerImage: false
 tag: 
 category: blog
 author: ParkYoungJun
-description: Markdown summary with different options
+description: 
 ---
 > ## 활동 내역     
 
+  - [[한국 사회 보장 정보원] 사회보장유레카 2022 창업경진대회 - 노인 일자리 창출 및 고독사 예방을 위한 노노케어 매칭 시스템 - 입선  (2022-04-04 ~ 2022-07-07)](https://park-youngjun.github.io/%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%9C%A0%EB%A0%88%EC%B9%B4-2022-%EC%B0%BD%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/)
+  
+
  - [2022 국방 데이터 활용 경진대회 참가 - 오운완!](https://park-youngjun.github.io/%EA%B5%AD%EB%B0%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%9C%EC%9A%A9-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/)
 
- - 2021년도 동서인 AI해커톤 경진대회 - 비례대표 (2021-11-04 ~ 2021-11-06)
+ - LG 디스커버리랩 보조강사 (2022-06 ~ 2023-02)
+
+ - 2021년도 학부생 연구프로그램(URP) 지원 연구 과제
 
  - 2021 동서인 AI·SW 창업동아리 D-RED(DRone Emergency Delivery) (2021-02-22 ~ 2021-11-30)   
 
