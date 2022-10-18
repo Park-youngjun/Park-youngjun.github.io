@@ -12,7 +12,8 @@ category: blog
 author: ParkYoungJun
 description:
 ---
-> # 수상 내역 
+> ## 수상 내역 
+
  - [LINK+ 사업단] 동남권 창업노마드 캠프 참여 - EMPTY SPACE - 우수상   
 
  - [LINK+ 사업단] 2021 DSU LINC+ 캡스톤디자인 경진대회 (2021-09-29 ~ 2021-11-19) - 우수상   
