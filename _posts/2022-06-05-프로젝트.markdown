@@ -16,7 +16,7 @@ externalLink: false
  > ## C 프로젝트   
  - [백준 알고리즘][1]   
 
- > ## Full Stack
+ > ## DataBase
   - [릴레이소설][2]
 
  > ## Android
