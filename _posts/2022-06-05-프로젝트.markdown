@@ -13,8 +13,8 @@ author: ParkYoungJun
 externalLink: false
 ---
 
- > ## C 프로젝트   
- - [백준 알고리즘][1]   
+ > ## AI projct
+  - [아동 감정 분석(개발중)][5]
 
  > ## DataBase
   - [릴레이소설][2]
@@ -23,8 +23,8 @@ externalLink: false
   - [NFC 출입관리 서비스][3]
   - [스케줄 관리][4]
 
- > ## AI projct
-  - [아동 감정 분석(개발중)][5]
+ > ## C 프로젝트   
+ - [백준 알고리즘][1]   
 
 [1]:https://github.com/Park-youngjun/BAEKJOON
 [2]:https://github.com/Park-youngjun/DB
