@@ -14,7 +14,7 @@ externalLink: false
 ---
 
  > ## AI projct
-  - [아동 감정 분석(개발중)][5]
+  - [아동 감정 사전 구축 및 텍스트 마이닝 기반 아동 감정 분석(개발중)][5]
 
  > ## DataBase
   - [릴레이소설][2]
@@ -30,5 +30,5 @@ externalLink: false
 [2]:https://github.com/Park-youngjun/DB
 [3]:https://github.com/Park-youngjun/AndroidProject-B.SORI
 [4]:https://github.com/Park-youngjun/Android
-[5]:a
+[5]:https://park-youngjun.github.io/%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EC%82%AC%EC%A0%84_%EA%B5%AC%EC%B6%95_%EB%B0%8F_%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EB%B6%84%EC%84%9D/
 [6]:a
